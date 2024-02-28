@@ -1,0 +1,12 @@
+{
+    "cucumberautocomplete.pages": {
+        "_home": "./selectors/home.js",
+        "_view": "./selectors/view.js",
+        "_buttons": "./selectors/buttons.js",
+    },
+    "cucumberautocomplete.steps": [
+        "./features/steps.js"
+    ],
+    "cucumberautocomplete.stepsInvariants": true,
+    "git-blame.gitWebUrl": ""
+}
